@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/rashedul-islam-48807b125/">Rashedul Islam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </h1>
 </div>
 <p align="center" >
-	<a href="https://github.com/RootsBuildUp"> 
+	<a href="https://github.com/RootsBuildUp/RootsBuildUp"> 
     	<img  src="https://github-readme-stats.vercel.app/api?username=RootsBuildUp&&show_icons=true&count_private=true&theme=solarized-dark&&show_icons=true&count_private=true&theme=solarized-dark"/>
   	</a></p>
 <p align="center">
