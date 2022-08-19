@@ -6,7 +6,7 @@
     	<img  src="https://github-readme-stats.vercel.app/api?username=RootsBuildUp&&show_icons=true&count_private=true&theme=solarized-dark&&show_icons=true&count_private=true&theme=solarized-dark"/>
   	</a></p>
 <p align="center">
-	<a target="_blank"><img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg?logo=java&style=for-the-badge"/></a> 
+	<a target="_blank"><img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg?logo=java&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="SpringBoot" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg?logo=SpringBoot&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg?logo=javascript&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="reactjs" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg?logo=reactjs&style=for-the-badge"/></a> 
