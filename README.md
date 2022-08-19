@@ -14,6 +14,7 @@
 	<a target="_blank"><img alt="javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg?logo=javascript&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg?logo=angular&style=for-the-badge"/></a>
 	<a target="_blank"><img alt="reactjs" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg?logo=reactjs&style=for-the-badge"/></a> 
+	<a target="_blank"><img alt="heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg?logo=heroku&style=for-the-badge"/></a>
 	<a target="_blank"><img alt="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg?logo=linux&style=for-the-badge"/></a>
 	
 </p>
